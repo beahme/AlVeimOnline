@@ -541,3 +541,242 @@ V.1.0 Alpha 13
 	+ Dum Quantum Ring
 	+ Destruction Quantum Amulet
 	+ Giga Quantum Amulet
+V.1.0 Alpha 14
+//5-26-2013 5:03 #Hikari
+======== Client Side ===========
+- Fixed Golden Armor
+	- Delete Level 40
+	+ Added Level 60
+V.1.0 Beta 1
+//5-29-2013 9:03 #Hatta
+======== Server Side ===========
+- MAU Parts
+	+ Sapphire MAU
+		+ Arm Sapphire MAU
+		+ Head Sapphire MAU
+		+ Upper Sapphire MAU
+		+ Shoulder Sapphire MAU
+		+ Lower Sapphire MAU
+		+ Back Sapphire MAU
+	+ Emerald MAU
+		+ Arm Emerald MAU
+		+ Head Emerald MAU
+		+ Upper Emerald MAU
+		+ Shoulder Emerald MAU
+		+ Lower Emerald MAU
+		+ Back Emerald MAU
+======== Client Side ===========
+- MAU Parts
+	+ Sapphire MAU
+		+ Arm Sapphire MAU
+		+ Head Sapphire MAU
+		+ Upper Sapphire MAU
+		+ Shoulder Sapphire MAU
+		+ Lower Sapphire MAU
+		+ Back Sapphire MAU
+	+ Emerald MAU
+		+ Arm Emerald MAU
+		+ Head Emerald MAU
+		+ Upper Emerald MAU
+		+ Shoulder Emerald MAU
+		+ Lower Emerald MAU
+		+ Back Emerald MAU
+V.1.0 Beta 2
+//5-30-2013 9:03 #Hatta
+======== Server Side ===========
+- Fixed MAU Parts
+	+ Fixed Sapphire MAU
+		+ Fixed Arm Sapphire MAU
+		+ Fixed Head Sapphire MAU
+		+ Fixed Upper Sapphire MAU
+		+ Fixed Shoulder Sapphire MAU
+		+ Fixed Lower Sapphire MAU
+		+ Fixed Back Sapphire MAU
+	+ Fixed Emerald MAU
+		+ Fixed Arm Emerald MAU
+		+ Fixed Head Emerald MAU
+		+ Fixed Upper Emerald MAU
+		+ Fixed Shoulder Emerald MAU
+		+ Fixed Lower Emerald MAU
+		+ Fixed Back Emerald MAU
+======== Client Side ===========
+- Fixed MAU Parts
+	+ Fixed Sapphire MAU
+		+ Fixed Arm Sapphire MAU
+		+ Fixed Head Sapphire MAU
+		+ Fixed Upper Sapphire MAU
+		+ Fixed Shoulder Sapphire MAU
+		+ Fixed Lower Sapphire MAU
+		+ Fixed Back Sapphire MAU
+	+ Fixed Emerald MAU
+		+ Fixed Arm Emerald MAU
+		+ Fixed Head Emerald MAU
+		+ Fixed Upper Emerald MAU
+		+ Fixed Shoulder Emerald MAU
+		+ Fixed Lower Emerald MAU
+		+ Fixed Back Emerald MAU
+V.1.0 Beta 3
+//5-30-2013 22:03 #Hatta,Frozen,rIn,Beah
+======== Server Side ===========
+- Added New Mobs Sette
+	+ ??? Mobs
+======== Client Side ===========
+- Fixed MAU Parts
+	+ Fixed Sapphire MAU
+		+ Fixed Arm Sapphire MAU
+		+ Fixed Back Sapphire MAU
+V.1.0 Beta 4
+//5-31-2013 11:36 #Hatta
+======== Server Side ===========
+- Fixed MAU Parts
+	+ Fixed Sapphire MAU
+		+ Fixed Arm Sapphire MAU
+			+ added damage 1000
+			+ added deff 1000
+		+ Fixed Head Sapphire MAU
+			+ added damage 1000
+			+ added deff 1000
+		+ Fixed Upper Sapphire MAU
+			+ added damage 1000
+			+ added deff 1000
+		+ Fixed Shoulder Sapphire MAU
+			+ added damage 1000
+			+ added deff 1000
+		+ Fixed Lower Sapphire MAU
+			+ added damage 1000
+			+ added deff 1000
+		+ Fixed Back Sapphire MAU
+			+ added damage 1000
+			+ added deff 1000
+	+ Fixed Emerald MAU
+		+ Fixed Arm Emerald MAU
+			+ added damage 1000
+			+ added deff 1000
+		+ Fixed Head Emerald MAU
+			+ added damage 1000
+			+ added deff 1000
+		+ Fixed Upper Emerald MAU
+			+ added damage 1000
+			+ added deff 1000
+		+ Fixed Shoulder Emerald MAU
+			+ added damage 1000
+			+ added deff 1000
+		+ Fixed Lower Emerald MAU
+			+ added damage 1000
+			+ added deff 1000
+		+ Fixed Back Emerald MAU
+			+ added damage 1000
+			+ added deff 1000
+======== Client Side ===========
+- Fixed MAU Parts
+	+ Fixed Sapphire MAU
+		+ Fixed Arm Sapphire MAU
+			+ added damage 1000
+			+ added deff 1000
+		+ Fixed Head Sapphire MAU
+			+ added damage 1000
+			+ added deff 1000
+		+ Fixed Upper Sapphire MAU
+			+ added damage 1000
+			+ added deff 1000
+		+ Fixed Shoulder Sapphire MAU
+			+ added damage 1000
+			+ added deff 1000
+		+ Fixed Lower Sapphire MAU
+			+ added damage 1000
+			+ added deff 1000
+		+ Fixed Back Sapphire MAU
+			+ added damage 1000
+			+ added deff 1000
+	+ Fixed Emerald MAU
+		+ Fixed Arm Emerald MAU
+			+ added damage 1000
+			+ added deff 1000
+		+ Fixed Head Emerald MAU
+			+ added damage 1000
+			+ added deff 1000
+		+ Fixed Upper Emerald MAU
+			+ added damage 1000
+			+ added deff 1000
+		+ Fixed Shoulder Emerald MAU
+			+ added damage 1000
+			+ added deff 1000
+		+ Fixed Lower Emerald MAU
+			+ added damage 1000
+			+ added deff 1000
+		+ Fixed Back Emerald MAU
+			+ added damage 1000
+			+ added deff 1000
+//5-31-2013 13:36 #Hatta
+======== Server Side ===========
+- Fixed MAU Parts
+	+ Fixed Sapphire MAU
+		+ Fixed Arm Sapphire MAU
+			+ Change Repair Price
+		+ Fixed Head Sapphire MAU
+			+ Change Repair Price
+		+ Fixed Upper Sapphire MAU
+			+ added damage 1000
+			+ added deff 1000
+			+ Change Repair Price
+		+ Fixed Shoulder Sapphire MAU
+			+ added damage 1000
+			+ added deff 1000
+			+ Change Repair Price
+		+ Fixed Lower Sapphire MAU
+			+ Change Repair Price
+		+ Fixed Back Sapphire MAU
+			+ Change Repair Price
+	+ Fixed Emerald MAU
+		+ Fixed Arm Emerald MAU
+			+ Change Repair Price
+		+ Fixed Head Emerald MAU
+			+ Change Repair Price
+		+ Fixed Upper Emerald MAU
+			+ added damage 1000
+			+ added deff 1000
+			+ Change Repair Price
+		+ Fixed Shoulder Emerald MAU
+			+ added damage 1000
+			+ added deff 1000
+			+ Change Repair Price
+		+ Fixed Lower Emerald MAU
+			+ Change Repair Price
+		+ Fixed Back Emerald MAU
+			+ Change Repair Price
+======== Client Side ===========
+- Fixed MAU Parts
+	+ Fixed Sapphire MAU
+		+ Fixed Arm Sapphire MAU
+			+ Change Repair Price
+		+ Fixed Head Sapphire MAU
+			+ Change Repair Price
+		+ Fixed Upper Sapphire MAU
+			+ added damage 1000
+			+ added deff 1000
+			+ Change Repair Price
+		+ Fixed Shoulder Sapphire MAU
+			+ added damage 1000
+			+ added deff 1000
+			+ Change Repair Price
+		+ Fixed Lower Sapphire MAU
+			+ Change Repair Price
+		+ Fixed Back Sapphire MAU
+			+ Change Repair Price
+	+ Fixed Emerald MAU
+		+ Fixed Arm Emerald MAU
+			+ Change Repair Price
+		+ Fixed Head Emerald MAU
+			+ Change Repair Price
+		+ Fixed Upper Emerald MAU
+			+ added damage 1000
+			+ added deff 1000
+			+ Change Repair Price
+		+ Fixed Shoulder Emerald MAU
+			+ added damage 1000
+			+ added deff 1000
+			+ Change Repair Price
+		+ Fixed Lower Emerald MAU
+			+ Change Repair Price
+		+ Fixed Back Emerald MAU
+			+ Change Repair Price
